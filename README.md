@@ -32,12 +32,12 @@ Combino más de una década de experiencia en **diseño gráfico, composición v
 
 ## Proyectos Destacados
 
-- **The X-Index | Pipeline Analítico y Power BI:**  
+- ## **The X-Index | Pipeline Analítico y Power BI:**  
   Ingeniería inversa y analítica relacional sobre el catálogo completo de *The X-Files*. Integración en Python con DuckDB, auditoría de discrepancias de emisión (QA), resolución de tipados en SQL y cuadro de mando ejecutivo interactivo en Power BI.
   
   <img src="The X-Index.png" width="100%" alt="The X-Index Hero" style="border-radius: 8px; margin-top: 15px; margin-bottom: 20px;">
 
-- **Pipeline ETL de Ingesta y Procesamiento:**  
+- ## **Pipeline ETL de Ingesta y Procesamiento:**  
   Desarrollo de procesos automatizados de extracción, transformación y carga (ETL), depuración de datos tabulares y preparación de esquemas para análisis de negocio.
 
 ---
