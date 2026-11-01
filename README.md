@@ -1,6 +1,6 @@
 ## Data Analyst & Visual Data Designer
 
----
+
 
 Combino más de una década de experiencia en **diseño gráfico, composición visual y desarrollo web** con la **analítica e ingeniería de datos**. Mi especialidad es unir ambos mundos: transformar datos sin procesar en pipelines fiables, arquitecturas SQL limpias y cuadros de mando en Power BI donde el rigor técnico convive con una jerarquía visual impecable.
 
