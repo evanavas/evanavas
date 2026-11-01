@@ -3,9 +3,9 @@
 
 Combino más de una década de experiencia en **diseño gráfico, composición visual y desarrollo web** con la **analítica e ingeniería de datos**. Mi especialidad es unir ambos mundos: transformar datos sin procesar en pipelines fiables, arquitecturas SQL limpias y cuadros de mando en Power BI donde el rigor técnico convive con una jerarquía visual impecable.
 
-* **Enfoque analítico:** Extracción y limpieza (ETL), modelado relacional, control de calidad (QA) y consultas optimizadas.
-* **Criterio visual:** Composición, contraste, accesibilidad y narración visual del dato (*Data Storytelling*).
-* **Filosofía de trabajo:** *Pienso en Python, diseño en Photoshop.*
+- **Enfoque analítico:** Extracción y limpieza (ETL), modelado relacional, control de calidad (QA) y consultas optimizadas.
+- **Criterio visual:** Composición, contraste, accesibilidad y narración visual del dato (*Data Storytelling*).
+- **Filosofía de trabajo:** *Pienso en Python, diseño en Photoshop.*
 
 ---
 
@@ -32,23 +32,25 @@ Combino más de una década de experiencia en **diseño gráfico, composición v
 
 ## Proyectos Destacados
 
-* **The X-Index | Pipeline Analítico y Power BI:**  
+- **The X-Index | Pipeline Analítico y Power BI:**  
   Ingeniería inversa y analítica relacional sobre el catálogo completo de *The X-Files*. Integración en Python con DuckDB, auditoría de discrepancias de emisión (QA), resolución de tipados en SQL y cuadro de mando ejecutivo interactivo en Power BI.
+  
+  <img src="The_X_Index.png" width="100%" alt="The X-Index Hero" style="border-radius: 8px; margin-top: 15px; margin-bottom: 20px;">
 
-* **Pipeline ETL de Ingesta y Procesamiento:**  
+- **Pipeline ETL de Ingesta y Procesamiento:**  
   Desarrollo de procesos automatizados de extracción, transformación y carga (ETL), depuración de datos tabulares y preparación de esquemas para análisis de negocio.
 
 ---
 
 ## Credenciales y Formación
 
-* **Power BI Data Analyst:** Modelado en DAX, cuadros de mando y diseño analítico.
-* **SQL y Bases de Datos Relacionales:** Agregaciones, funciones de ventana y cruces relacionales.
+- **Power BI Data Analyst:** Modelado en DAX, cuadros de mando y diseño analítico.
+- **SQL y Bases de Datos Relacionales:** Agregaciones, funciones de ventana y cruces relacionales.
 
 ---
 
 ## Contacto y Redes
 
-* **Web:** [evanavas.es](https://evanavas.es)
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
-* **Email:** [contacto@evanavas.es](mailto:contacto@evanavas.es)
+- **Web:** [evanavas.es](https://evanavas.es)
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
+- **Email:** [contacto@evanavas.es](mailto:contacto@evanavas.es)
