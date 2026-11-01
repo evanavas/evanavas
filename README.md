@@ -7,7 +7,7 @@
       <p>Mi foco de trabajo se centra en el ciclo de vida del dato: extracción e ingesta (ETL), modelado relacional, control de calidad (QA) y creación de cuadros de mando donde la estética está al servicio del negocio.</p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="perfil.png" width="100%" alt="Eva - Data Analyst & Designer" style="border-radius: 10px;">
+      <img src="perfil.png" width="120%" alt="Eva - Data Analyst & Designer" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
