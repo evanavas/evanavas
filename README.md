@@ -52,5 +52,7 @@ Combino más de una década de experiencia en **diseño gráfico, composición v
 ## Contacto y Redes
 
 - **Web:** [evanavas.es](https://evanavas.es)
+  <img src="perfil.png" width="100%" alt="The X-Index Hero" style="border-radius: 8px; margin-top: 15px; margin-bottom: 20px;">
+
 - **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
 - **Email:** [contacto@evanavas.es](mailto:contacto@evanavas.es)
