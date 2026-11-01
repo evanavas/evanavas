@@ -1,22 +1,17 @@
-<table border="0">
-  <tr>
-    <td width="65%" valign="top">
-      <h1>Hola, soy Eva</h1>
-      <h3>Data Analyst & Visual Data Designer</h3>
-      <p>Combino más de una década de experiencia en <b>diseño gráfico, composición visual y desarrollo web</b> con la <b>ingeniería y analítica de datos</b>. Especializada en transformar datos sin procesar en pipelines fiables, arquitecturas SQL limpias y paneles de Business Intelligence de alto impacto visual.</p>
-      <p>Mi foco de trabajo se centra en el ciclo de vida del dato: extracción e ingesta (ETL), modelado relacional, control de calidad (QA) y creación de cuadros de mando donde la estética está al servicio del negocio.</p>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="perfil.png" width="120%" alt="Eva - Data Analyst & Designer" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
+# Eva Navas
+### Data Analyst & Visual Data Designer
+
+Combino más de una década de experiencia en **diseño gráfico, composición visual y desarrollo web** con la **analítica e ingeniería de datos**. Mi especialidad es unir ambos mundos: transformar datos sin procesar en pipelines fiables, arquitecturas SQL limpias y cuadros de mando en Power BI donde el rigor técnico convive con una jerarquía visual impecable.
+
+* **Enfoque analítico:** Extracción y limpieza (ETL), modelado relacional, control de calidad (QA) y consultas optimizadas.
+* **Criterio visual:** Composición, contraste, accesibilidad y narración visual del dato (*Data Storytelling*).
+* **Filosofía de trabajo:** *Pienso en Python, diseño en Photoshop.*
 
 ---
 
-## Especialidades y Stack Tecnológico
+## Especialidades y Stack Técnico
 
-### Datos & Analítica
+### Datos y Analítica
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -25,7 +20,7 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-### Diseño & Entorno Web
+### Diseño y Entorno Web
 <p>
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
@@ -37,21 +32,23 @@
 
 ## Proyectos Destacados
 
-* **The X-Index | Pipeline Analítico & Power BI:**  
-  Ingeniería inversa de metadatos narrativos y métricas históricas de televisión. Integración relacional en Python con DuckDB, resolución documentada de discrepancias canónicas (QA) y cuadro de mando interactivo en Power BI.
-* **Pipeline ETL de Ingesta & Procesamiento:**  
-  Desarrollo de procesos de extracción, transformación y carga (ETL), limpieza automatizada de esquemas tabulares y exportación estructurada para explotación analítica.
+* **The X-Index | Pipeline Analítico y Power BI:**  
+  Ingeniería inversa y analítica relacional sobre el catálogo completo de *The X-Files*. Integración en Python con DuckDB, auditoría de discrepancias de emisión (QA), resolución de tipados en SQL y cuadro de mando ejecutivo interactivo en Power BI.
+
+* **Pipeline ETL de Ingesta y Procesamiento:**  
+  Desarrollo de procesos automatizados de extracción, transformación y carga (ETL), depuración de datos tabulares y preparación de esquemas para análisis de negocio.
 
 ---
 
-## Certificaciones & Credenciales
+## Credenciales y Formación
 
-* **Power BI Data Analyst:** Modelado DAX, diseño de cuadros de mando y gobierno de datos.
-* **SQL & Relational Databases:** Consultas avanzadas, agregaciones, funciones de ventana y cruces complejos.
+* **Power BI Data Analyst:** Modelado en DAX, cuadros de mando y diseño analítico.
+* **SQL y Bases de Datos Relacionales:** Agregaciones, funciones de ventana y cruces relacionales.
 
 ---
 
-## Contacto
+## Contacto y Redes
 
-* **LinkedIn:** [Tu Enlace Aquí](https://linkedin.com)
-* **Email:** [Tu Correo Aquí](mailto:tucorreo@ejemplo.com)
+* **Web:** [evanavas.es](https://evanavas.es)
+* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
+* **Email:** [contacto@evanavas.es](mailto:contacto@evanavas.es)
